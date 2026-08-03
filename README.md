@@ -87,3 +87,13 @@ git clone https://github.com/pescadosalado/tiantan-general-word-format.git ~/.cl
 ## 许可 · License
 
 MIT
+
+---
+
+## 联系 · Contact
+
+👤 **pescadosalado** · [GitHub](https://github.com/pescadosalado)
+
+欢迎使用、提建议、交流反馈。如果这个模版对你有帮助，请点个 ⭐ Star！
+
+Welcome to use, share feedback, and contribute. If you find this useful, a ⭐ star is much appreciated!
