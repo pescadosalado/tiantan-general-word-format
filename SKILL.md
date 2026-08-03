@@ -13,8 +13,8 @@ description: 使用天坛家具公文格式创建或改写正式Word文件。支
 
 | 触发词 | 模板 | 参考文件 |
 |--------|------|----------|
-| "冬奥"、"奥运"、"winter olympics"、"冬奥会"、"奥运会"、"冬奥模板"、"奥运模板"、"冬奥logo"、"品牌模板"、"品牌格式" | **冬奥品牌模板** | `assets/reference-winter-olympics.docx` |
-| "通用"、"通用格式"、"通用模板"、"标准格式"、"默认格式"、或无关键词 | **通用模板** | `assets/reference.docx` |
+| "冬奥word" | **冬奥品牌模板**（带 logo 底图） | `assets/reference-winter-olympics.docx` |
+| "通用word" 或 无关键词 | **通用模板**（标准公文） | `assets/reference.docx` |
 
 两套模板的区别仅在于：冬奥模板的页眉页脚带有冬奥 logo 和品牌底图；通用模板无品牌元素。正文、标题、落款、联系人的格式规范**完全一致**。
 
